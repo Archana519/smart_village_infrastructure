@@ -1,0 +1,4 @@
+Model,mIoU (%),mDice (%),Building IoU (%),Road IoU (%),Latency (ms)
+DeepLabV3-R101 (LoveDA),32.38,47.41,33.5,28.8,176.36 ± 2.98
+SegFormer-B2 (LoveDA),37.22,50.95,32.49,34.9,64.19 ± 3.23
+StrongDINOv2Seg (Ours),43.11,56.62,62.4,34.79,145.34 ± 1.75
